@@ -1,12 +1,7 @@
 # Software Carpentry instructor training
 
-=====================
-*Under Construction
-=====================
-
-
-Jan 21-22, 2016  
-North Theatre (Room 239)*TBC  
+Feb 11-13, 2015  
+North Theatre (Room 239)    
 [Old Arts Building](http://maps.unimelb.edu.au/parkville/building/149), University of Melbourne
 
 *Instructors:* [Bill Mills](https://twitter.com/billdoesphysics), [Damien Irving](https://twitter.com/drclimate)    
